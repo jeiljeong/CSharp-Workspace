@@ -1,0 +1,15 @@
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\문자열출력하기\bin\Debug\net7.0\문자열출력하기.exe
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\문자열출력하기\bin\Debug\net7.0\문자열출력하기.deps.json
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\문자열출력하기\bin\Debug\net7.0\문자열출력하기.runtimeconfig.json
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\문자열출력하기\bin\Debug\net7.0\문자열출력하기.dll
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\문자열출력하기\bin\Debug\net7.0\문자열출력하기.pdb
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\문자열출력하기\obj\Debug\net7.0\문자열출력하기.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\문자열출력하기\obj\Debug\net7.0\문자열출력하기.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\문자열출력하기\obj\Debug\net7.0\문자열출력하기.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\문자열출력하기\obj\Debug\net7.0\문자열출력하기.AssemblyInfo.cs
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\문자열출력하기\obj\Debug\net7.0\문자열출력하기.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\문자열출력하기\obj\Debug\net7.0\문자열출력하기.dll
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\문자열출력하기\obj\Debug\net7.0\refint\문자열출력하기.dll
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\문자열출력하기\obj\Debug\net7.0\문자열출력하기.pdb
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\문자열출력하기\obj\Debug\net7.0\문자열출력하기.genruntimeconfig.cache
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\문자열출력하기\obj\Debug\net7.0\ref\문자열출력하기.dll
