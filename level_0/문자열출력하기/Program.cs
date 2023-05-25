@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+public class Example
+{
+    public static void Main()
+    {
+        String s;
+
+        // Console.Clear();
+        s = Console.ReadLine();
+        Console.WriteLine(s);
+
+    }
+}

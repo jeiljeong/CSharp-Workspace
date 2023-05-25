@@ -1,0 +1,15 @@
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\연속된 수의 합\bin\Debug\net7.0\연속된 수의 합.exe
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\연속된 수의 합\bin\Debug\net7.0\연속된 수의 합.deps.json
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\연속된 수의 합\bin\Debug\net7.0\연속된 수의 합.runtimeconfig.json
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\연속된 수의 합\bin\Debug\net7.0\연속된 수의 합.dll
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\연속된 수의 합\bin\Debug\net7.0\연속된 수의 합.pdb
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\연속된 수의 합\obj\Debug\net7.0\연속된 수의 합.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\연속된 수의 합\obj\Debug\net7.0\연속된 수의 합.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\연속된 수의 합\obj\Debug\net7.0\연속된 수의 합.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\연속된 수의 합\obj\Debug\net7.0\연속된 수의 합.AssemblyInfo.cs
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\연속된 수의 합\obj\Debug\net7.0\연속된 수의 합.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\연속된 수의 합\obj\Debug\net7.0\연속된 수의 합.dll
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\연속된 수의 합\obj\Debug\net7.0\refint\연속된 수의 합.dll
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\연속된 수의 합\obj\Debug\net7.0\연속된 수의 합.pdb
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\연속된 수의 합\obj\Debug\net7.0\연속된 수의 합.genruntimeconfig.cache
+C:\Users\admin\OneDrive\바탕 화면\CSharp Workspace\level_0\연속된 수의 합\obj\Debug\net7.0\ref\연속된 수의 합.dll
